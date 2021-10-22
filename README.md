@@ -5,7 +5,7 @@
 - 📫 Good good study, day day up, day day fun <br>
 <br>
 
-![ddup](https://github.com/ddupfun/ddupfun/raw/main/Snipaste_2021-10-23_01-14-25.png)
+![ddup](https://i.loli.net/2021/10/23/2JIXwEsAdo1ODZ6.png)
 <br>
 <!---
 ddupfun/ddupfun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
