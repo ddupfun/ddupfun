@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ddupfun
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning NLP
-- 💞️ I’m trying 2 B A NB NLPer
-- 📫 Good good study, day day up, day day fun <br>
-<br>
-
 ![ddup](https://i.loli.net/2021/10/23/2JIXwEsAdo1ODZ6.png)
 <br>
 <!---
